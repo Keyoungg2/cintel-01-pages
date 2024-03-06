@@ -4,7 +4,7 @@ This is my first website using Markdown and GitHub Pages. Your Welcome to explor
 
 ## Links (Two hashes is a second level heading)
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/) 
+Here's a clickable link: Chartgpt [My favorite AI assistant](https://chat.openai.com/) 
 
 ## Images
 
